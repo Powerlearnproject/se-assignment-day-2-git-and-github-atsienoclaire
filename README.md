@@ -84,7 +84,6 @@ License Information:
 Specify the license under which the project is distributed. This is important for clarifying the legal aspects of using and contributing to the project.
 Acknowledgments and Credits:
 Recognize contributors, libraries, or resources that helped in the development of the project.
-
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 Public Repositories: Ideal for open-source projects or when the goal is to attract a wide range of contributors and users. They offer visibility, broad community engagement, and free hosting but come with the trade-offs of reduced control and potential security risks.
 Private Repositories: Best suited for proprietary, sensitive, or in-progress projects where control over access and confidentiality is crucial. They provide a secure environment and focused collaboration but limit community involvement and require a paid plan in some cases.
@@ -196,7 +195,6 @@ After merging, you may delete the branch to keep the repository clean. GitHub of
 git branch -d feature/my-new-feature
 git push origin --delete feature/my-new-feature
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
-
 Understanding Forking on GitHub
 Forking a repository on GitHub is the process of creating a personal copy of someone else's repository under your GitHub account. This copy is entirely independent of the original repository, although GitHub keeps a link between the fork and the source repository for easy tracking and synchronization.
 
